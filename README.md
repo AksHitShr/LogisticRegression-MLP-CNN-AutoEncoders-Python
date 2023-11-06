@@ -1,8 +1,13 @@
-## Assignment-3 (SMAI)
+## Statistical Methods in AI
 ### Akshit Sharma (2021101029)
 
 - There are 5 seperate jupyter notebooks for the 5 parts of the assignment.
 - All the necessary analysis and explanation has been written in the reports for each part.
+- The 1st part implements Multinomial Logistic Regression in python from scratch and runs it on the WineQT dataset.
+- The 2nd part implements Multilayer Perceptron for multi-class classification in python from scratch and runs it on the WineQT dataset, comparing it to logistic regression for part 1.
+- The 3rd part implements Multilayer Perceptron for for regression in python from scratch and runs it on the Boston Housing Dataset dataset.
+- The 4th part implements CNN using pytorch and runs it on MNIST dataset. Also, it implements a denoising auto-encoder using pytorch to apply CNN after denoising the MNIST dataset with added gaussian noise.
+- The 5th part implements CNN using pytorch for double MNIST dataset and Permuted MNIST dataset. It also compares the performance of MLP model and CNN model on these datasets.
 - The links for the 5 reports are given below:-
 
 [Report for Part-1](https://api.wandb.ai/links/jhjhbbg/slb2njk7)
