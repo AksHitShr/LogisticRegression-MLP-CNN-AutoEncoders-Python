@@ -1,5 +1,4 @@
 ## Statistical Methods in AI
-### Akshit Sharma (2021101029)
 
 - There are 5 seperate jupyter notebooks for the 5 parts of the assignment.
 - All the necessary analysis and explanation has been written in the reports for each part.
